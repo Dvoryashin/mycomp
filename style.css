@@ -1,0 +1,37 @@
+body{
+    margin: 0;
+}
+.brand{
+    color: #26b07a;
+    margin-left: 0px;
+}
+.hrefi{
+    margin-left: 150px;
+}
+ul{
+    margin-top: 10px;
+    display: inline-block;
+    font-size: 40px;
+    list-style-type: none;
+}
+li{
+    position: relative;
+    display: inline-block;
+}
+a{
+    text-decoration: none;
+    color: #2097d8;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+h2{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+img{
+    margin-left: 25%;
+    width: 50%;
+}
